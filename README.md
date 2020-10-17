@@ -1,8 +1,6 @@
-# instagram-bot
-Instagram bot built with Python 3.7 and the Selenium package. 
+# instagram-automation
+Instagram automation built with Python 3.7 and the Selenium package. 
 
-# Testing
-- 3/19/2019 with Google Chrome v72 and Python 3.7
 
 # Current Features
 - Follow a user
