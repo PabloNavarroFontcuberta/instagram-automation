@@ -416,11 +416,6 @@ if __name__ == '__main__':
     bot = InstaBot()
     bot.login()
     
-    #bot.like_latest_posts('hondacivic_fk3', 15, like=True)
-    #bot.follow_users('audi')
+    bot.search_tag('instagram')
 
-    #bot.search_tag('audination')
-    #bot.search_tag('audia38l')
-    bot.search_tag('audifan')
-    #bot.search_tag('audilove')
     
