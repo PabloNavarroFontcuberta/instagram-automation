@@ -5,7 +5,8 @@ Instagram automation built with Python 3.7 and the Selenium package.
 # Current Features
 - Follow a user
 - Unfollow a user
-- Search posts by tag
+- Search and like posts by tag 
+- Comment posts by tag
 - Like a users latest posts
 - Unlike a users latest posts
 - Download a users image media
